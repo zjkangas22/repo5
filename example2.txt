@@ -1,6 +1,2 @@
 this is example 2
-<<<<<<< HEAD
 change VS 12:11 after web
-=======
-change on web 12:11
->>>>>>> 1b36ce7374fa0849b00b8bee361ed55518a06c41
